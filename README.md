@@ -1,1 +1,1 @@
-# Stack-Implementation in java 
+# Stack-Implementation in java the general case
